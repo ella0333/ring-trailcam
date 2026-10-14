@@ -12,9 +12,11 @@ Ring Trail Cam turns your Ring camera into a wildlife trail cam. When Ring repor
 - A Ring developer account and a private app in the [Ring developer console](https://developer.amazon.com/ring/console/apps), with the Cameras and Doorbells scope. Keep the Client ID, Client Secret and HMAC Signature Key that Ring shows when you create the app.
 - A Ring camera in the US, with a Ring Protect plan or trial on that Ring account.
 
-## Start and stop
+## Quick start
 
 ```
+git clone https://github.com/ella0333/ring-trailcam.git
+cd ring-trailcam
 python start.py
 ```
 
