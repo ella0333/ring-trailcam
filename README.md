@@ -30,6 +30,8 @@ From then on, every motion clip from your camera is checked for animals. The tun
 python stop.py
 ```
 
+To start again with an empty field journal, run `python start.py --fresh`. It keeps your setup.
+
 ## More
 
 [HOW-IT-WORKS.md](HOW-IT-WORKS.md) explains the pipeline and the Ring API calls.
